@@ -15,3 +15,21 @@ Node.js ile Rest-api ile backend template proje yapımı.
 * "nodemailer": "^6.8.0",
 * "uuid": "^9.0.0",
 * "winston": "^3.8.2"
+
+# .env dosya içeriği
+
+```
+DB_HOST=localhost
+DB_PORT=27017
+DB_NAME=izmircode
+APP_PORT=3000
+PASSWORD_HASH="izmir$code!Deneme#Bilmemene!?"
+ACCESS_TOKE_SECRET_KEY=fd8730aaf78ca75f40e2dbb62f122c9c05eb7b2662842c28ceb7752e01b20ac1
+REFRESH_TOKE_SECRET_KEY=izmirfd8730aaf78ca75f40e2dbb62f122c9c05eb7b2662842c28ceb7752e01b20ac1code
+EMAIL_HOST=email-host
+EMAIL_PORT=587
+EMAIL_USER=email
+EMAIL_PASSWORD=parola
+EMAIL_FROM=email
+VERSION_FOLDER=v1
+```
