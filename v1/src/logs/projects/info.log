@@ -1,0 +1,5 @@
+{"level":"info","message":{"_id":"6391d6428f387969fa6576d2","createdAt":"2022-12-08T12:19:14.061Z","name":"logger test 1","updatedAt":"2022-12-08T12:19:14.061Z"},"service":"user-service"}
+{"level":"info","message":{"_id":"6391e96a33a809016bd85d34","createdAt":"2022-12-08T13:40:58.644Z","name":"logger test 2","updatedAt":"2022-12-08T13:40:58.644Z"},"service":"project-service"}
+{"level":"info","message":{"_id":"63930acab51e360e8a487148","createdAt":"2022-12-09T10:15:38.491Z","name":"user_id test","updatedAt":"2022-12-09T10:15:38.491Z","user_id":"639233afbf8c2b7f3f628d76"},"service":"project-service"}
+{"level":"info","message":{"_id":"63930d79f92d042ddf78e496","createdAt":"2022-12-09T10:27:05.703Z","name":"user_id test","updatedAt":"2022-12-09T10:27:05.703Z","user_id":"639233afbf8c2b7f3f628d76"},"service":"project-service"}
+{"level":"info","message":{"_id":"63931377087b320e58347e7d","createdAt":"2022-12-09T10:52:39.739Z","name":"update test","updatedAt":"2022-12-09T10:52:39.739Z","user_id":"639233afbf8c2b7f3f628d76"},"service":"project-service"}

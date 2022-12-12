@@ -1,0 +1,15 @@
+const express = require("express");
+const app = express();
+
+app.get("/", (reg, res) => {
+    res.status(200).send({
+            message: "Rest api ayakta",
+        });
+});
+
+app.listen(3232, () => {
+    console.log("3232 portu üzerinden çalışıyor");
+});
+
+// package.json içerisinde script kısmında
+// "start": "node app.js"

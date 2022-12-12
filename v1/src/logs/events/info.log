@@ -1,0 +1,5 @@
+{"level":"info","message":"Password reset = [object Object]","service":"events-service"}
+{"level":"info","message":"Password reset[object Object]","service":"events-service"}
+{"level":"info","message":"Password reset = sezgin.yasar@izmircode.com","service":"events-service"}
+{"level":"info","message":"Password reset = sezgin.yasar@izmircode.com","service":"events-service"}
+{"level":"info","message":{"html":"Talebiniz üzerine şifre sıfırlama işleminizi gerçekleşmiştir. <br/> Giriş yaptıktan sonra şifrenizi değiştirmeyi unutmatın! <br/> Yeni Şifreniz : <b>01a1cc1e</b>","subject":"Şifre Sıfırlama","to":"sezgin.yasar@izmircode.com"},"service":"events-service"}
