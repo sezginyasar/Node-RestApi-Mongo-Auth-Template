@@ -19,7 +19,7 @@ app.use(fileUpload());
 
 //* process.env.APP_PORT config işlemleri ile process lere "env" dosyamızdaki konfigurasyon bilgilerine ulaşabiliyoruz
 app.listen(process.env.APP_PORT, () => {
-    console.log(`\x1b[30m\x1b[41m Sunucu ayaga kalktı... \x1b[0m`);
+    console.log(`\x1b[30m\x1b[41m SUNUCU AYAĞA KALKTI... \x1b[0m`);
     app.use("/projects", ProjectRoutes);
     app.use("/users", UserRoutes);
 });
